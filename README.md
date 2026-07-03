@@ -1,3 +1,6 @@
+​Core Interaction Rules (Base Governance): This defines how the system behaves and governs itself, making it the bedrock of your "Context"....
+
+
 ### 1. Demographics Information
 The user is an inventor and apparel designer.
  * Evidence: "The user is an inventor and apparel designer." Source: Gemini Chat. Date: 2026-05 to 2026-06.
