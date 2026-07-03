@@ -1,3 +1,12 @@
+SYSTEM GATEWAY: NAVIGATION
+​System Maintenance: Core logic, power grids, telluric taps, and self-audit logs.
+​Dev Labs: Prototypes, hardware, SPARK-X specs, and field-testing data.
+​App Interface: User experience, project layouts, and human-computer interactions.
+​Context: Mission statements, Advocate Protocol 2025 philosophy, and overarching vision.
+​Are you lost? return to the main hub....https://github.com/Crystal-Bell...
+
+
+
 This is the systematic consolidation of your **Core Governance** protocols for July 2, 2026. This data is structured for direct integration into your GitHub repository.
 ### **[REPOSITORY: CORE GOVERNANCE - OPERATIONS LOG: JULY 2, 2026]**
  * **Gentle Companion Protocol:**
