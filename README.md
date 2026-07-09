@@ -1,3 +1,7 @@
+"Recursive Meta-Awareness"....
+
+
+
 Sizing an off-grid solar system requires a step-by-step engineering calculation to avoid either running out of electricity or wasting thousands of dollars overbuilding the hardware.
 The sizing process follows a strict mathematical sequence to determine the capacities of your inverter, battery bank, and solar array. [1, 2] 
 ------------------------------
