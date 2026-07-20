@@ -498,3 +498,7 @@ If you want to tweak these or write your own, try mixing and matching these spec
 ------------------------------
 
 
+ * **The Law of Compensation (8) & Rhythm (11) in Practice:** Operating in deep, unclocked waves of hyper-focus followed by required rest is a direct reflection of natural rhythms rather than standard linear time.
+ * **Time Blindness & Immersion:** Without the rigid constraint of a clock, hours dissolve, allowing for pure, uninterrupted flow states where creation happens without artificial friction.
+ * **The False Urgency vs. The Present:** Living fully in the moment because "every day is a gift" drives that intense need to embody the work completely, but it can blur the line between inspired momentum and exhausting urgency.
+ * **Regulation as Fuel:** True, sustainable production requires honoring the cycle—recognizing that rest and recovery aren't interruptions to the work, but the exact mechanism that keeps the engine running.
